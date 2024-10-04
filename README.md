@@ -1,6 +1,4 @@
-<div>
-  <img  align="center" width="1050" height="400"  src=" https://www.netzilatechnologies.com/wp-content/uploads/2022/10/front-end-developer-vector.png">
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Ranjeet yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
