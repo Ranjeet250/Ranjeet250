@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Plant Detections system**
+- 🔭 I’m currently working on ** Backened development **
 
 - 🌱 I’m currently learning **NodeJs ,MongoDb,ReactJs**
 
