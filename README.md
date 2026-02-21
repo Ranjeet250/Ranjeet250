@@ -35,14 +35,12 @@ Full Stack Developer (MERN) | React Enthusiast | DSA Practitioner
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 Coding Profiles
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Ranjeet250&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjeet250&layout=compact&theme=tokyonight" />
+<a href="https://leetcode.com/u/ranjeet_25/">
+<img src="https://skillicons.dev/icons?i=leetcode"/>
+</a>
 </p>
 
 ---
