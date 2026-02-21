@@ -67,4 +67,7 @@ Full Stack Developer (MERN) | React Enthusiast | DSA Practitioner
 <a href="https://www.linkedin.com/in/ranjeet-yadav-58b043285/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+  <a href="mailto:ranjeetyadavok36@gmail.com" target="_blank">
+<img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="40" width="40"/>
+</a>
 </p>
