@@ -1,27 +1,64 @@
+<h1 align="center">Hi 👋, I'm Ranjeet Yadav</h1>
 
+<h3 align="center">
+Full Stack Developer (MERN) | React Enthusiast | DSA Practitioner
+</h3>
 
-<h1 align="center">Hi 👋, I'm Ranjeet yadav</h1>
-<h3 align="center">A passionate full Stack developer(MERN) from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-- 🔭 I’m currently working on ** Backend development **
-
-- 🌱 I’m currently learning **NodeJs ,MongoDb,ReactJs**
-
-- 💬 Ask me about **Html,Tailwind css , javascript,React**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ranjeet yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjeet yadav" height="30" width="40" /></a>
-
-<a href="https://www.codechef.com/users/ranjeet_25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ranjeet_25" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ranjeet_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranjeet_25" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ranjeetyav3sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ranjeetyav3sh" height="30" width="40" /></a>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ranjeet250/Ranjeet250/main/fingif.gif" width="400"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeet250&" alt="ranjeet250" /></p>
+### 🚀 About Me
 
+- 🔭 Currently building scalable web applications  
+- 🌱 Learning advanced React architecture & UI abstractions  
+- 💻 Skilled in ReactJS, Node.js, Express.js  
+- 🧠 Solved 600+ DSA problems  
+- 🚀 Recently built **AI Pipeline Builder Interface**
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,cpp,tailwind,git,github" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+🔹 [AI Pipeline Builder Interface](https://github.com/Ranjeet250/AI-Pipeline-Builder-Interface-)  
+🔹 [ElevateU Learning Platform](https://github.com/Ranjeet250/Elevatu-Learning-Platform)
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ranjeet250&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjeet250&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjeet250&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/ranjeet-yadav-58b043285/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
