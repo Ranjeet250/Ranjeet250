@@ -37,11 +37,16 @@ Full Stack Developer (MERN) | React Enthusiast | DSA Practitioner
 
 ### 🧠 Coding Profiles
 
-<p>
-<a href="https://leetcode.com/u/ranjeet_25/">
-<img src="https://skillicons.dev/icons?i=leetcode"/>
+<p align="left">
+<a href="https://leetcode.com/u/ranjeet_25/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/ranjeetyav3sh?tab=activity" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="40" width="40" />
 </a>
 </p>
+![fingif](https://github.com/user-attachments/assets/8b8679cc-66b9-4e0f-9f24-0b723fd8ba80)
 
 ---
 
