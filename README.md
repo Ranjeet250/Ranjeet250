@@ -17,7 +17,7 @@ Full Stack Developer (MERN) | React Enthusiast | DSA Practitioner
 - 🌱 Learning advanced React architecture & UI abstractions  
 - 💻 Skilled in ReactJS, Node.js, Express.js  
 - 🧠 Solved 600+ DSA problems  
-- 🚀 Recently built **AI Pipeline Builder Interface**
+- 🚀 Recently built **Airport_Ride_Pooling_system**
 
 ---
 
@@ -31,7 +31,7 @@ Full Stack Developer (MERN) | React Enthusiast | DSA Practitioner
 
 ### 📌 Featured Projects
 
-🔹 [AI Pipeline Builder Interface](https://github.com/Ranjeet250/AI-Pipeline-Builder-Interface-)  
+🔹 [Airport_Ride_Pooling_system](https://github.com/Ranjeet250/AI-Pipeline-Builder-Interface-)  
 🔹 [ElevateU Learning Platform](https://github.com/Ranjeet250/Elevatu-Learning-Platform)
 
 ---
